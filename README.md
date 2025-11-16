@@ -104,7 +104,4 @@ BMI = weight (kg) / [height (m)]²
 </table>
 </div>
 ---
-
----
-
 **Note**: This app provides general BMI calculations. For personalized health advice, please consult healthcare professionals.
